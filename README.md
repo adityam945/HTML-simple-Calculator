@@ -1,6 +1,6 @@
 # HTML-simple-Calculator
 
-#Clone and double click on index.html 
+# Clone and double click on index.html 
 
 This was my first HTML project.
 
